@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HigherpowerCoach/static/css/main.a8e8b4e4.css",
+    "main.js": "/HigherpowerCoach/static/js/main.1e1bbb6a.js",
+    "static/js/453.4cc6cbf2.chunk.js": "/HigherpowerCoach/static/js/453.4cc6cbf2.chunk.js",
+    "index.html": "/HigherpowerCoach/index.html",
+    "main.a8e8b4e4.css.map": "/HigherpowerCoach/static/css/main.a8e8b4e4.css.map",
+    "main.1e1bbb6a.js.map": "/HigherpowerCoach/static/js/main.1e1bbb6a.js.map",
+    "453.4cc6cbf2.chunk.js.map": "/HigherpowerCoach/static/js/453.4cc6cbf2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8e8b4e4.css",
+    "static/js/main.1e1bbb6a.js"
+  ]
+}
